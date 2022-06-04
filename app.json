@@ -1,14 +1,10 @@
 {
-    "name": "HX",
+    "name": "HX Project",
     "description": "Powered By Misaka-blog",
     "keywords": [],
     "env": {
-        "TYPE": {
-            "description": "协议，小写的vmess或vless",
-            "value": "vmess"
-        },
         "UUID": {
-            "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
+            "description": "UUID，Can generated at https://www.uuidgenerator.net/",
             "value": "1eb6e917-774b-4a84-aff6-b058577c60a5"
         }
     },
